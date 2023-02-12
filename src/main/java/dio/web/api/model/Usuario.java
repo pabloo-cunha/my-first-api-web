@@ -14,7 +14,7 @@ public class Usuario {
         return "User{" +
                 "login='" + login + '\'' +
                 ", password='" + password + '\'' +
-                '}';}
+                "}";}
 
     public Integer getId() {
         return id;
